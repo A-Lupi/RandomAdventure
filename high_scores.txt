@@ -1,4 +1,6 @@
 Knuckleheads High Scores:
-Frodo............... 440
-Legolas............. 165
-Aragorn............. 150
+[#<ClumsyPlayer:0x000055bdc4550b40 @name="Klutz", @health=95, @found_treasures={:pie=>2}>, #<Player:0x000055bdc4562de0 @name="Alvin", @health=115, @found_treasures={:pie=>5}>, #<Player:0x000055bdc4562c50 @name="Simon", @health=75, @found_treasures={:skillet=>100}>, #<Player:0x000055bdc4562ae8 @name="Theo", @health=115, @found_treasures={:crowbar=>400}>]
+Theo................ 515
+Simon............... 175
+Alvin............... 120
+Klutz............... 97

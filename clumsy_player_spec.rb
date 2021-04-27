@@ -1,4 +1,6 @@
 require_relative 'clumsy_player'
+require_relative 'spec_helper'
+
 
 describe ClumsyPlayer do
   before do

@@ -1,11 +1,14 @@
 require_relative 'player'
 require_relative 'game'
+require_relative 'clumsy_player'
 
 player1 = Player.new("moe")
 player2 = Player.new("larry", 60)
 player3 = Player.new("curly", 125)
 
 knuckleheads = Game.new("Knuckleheads")
+klutz = ClumsyPlayer.new("klutz", 105)
+knuckleheads.add_player(klutz)
 knuckleheads.load_players(ARGV.shift || "players.csv")
 
 #knuckleheads.add_player(player1)
@@ -26,7 +29,11 @@ loop do
   end
 end
 
-#knuckleheads.save_high_scores
+knuckleheads.save_high_scores
+
+
+
+
 
 
 
