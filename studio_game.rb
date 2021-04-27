@@ -8,7 +8,7 @@ player2 = Player.new("larry", 60)
 player3 = Player.new("curly", 125)
 
 knuckleheads = Game.new("Knuckleheads")
-klutz = ClumsyPlayer.new("klutz", 105)
+klutz = ClumsyPlayer.new("klutz", 105, 3)
 knuckleheads.add_player(klutz)
 berserker = BerserkPlayer.new("berserker", 50)
 knuckleheads.add_player(berserker)
