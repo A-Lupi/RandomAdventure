@@ -1,6 +1,7 @@
 Knuckleheads High Scores:
-[#<ClumsyPlayer:0x000055bdc4550b40 @name="Klutz", @health=95, @found_treasures={:pie=>2}>, #<Player:0x000055bdc4562de0 @name="Alvin", @health=115, @found_treasures={:pie=>5}>, #<Player:0x000055bdc4562c50 @name="Simon", @health=75, @found_treasures={:skillet=>100}>, #<Player:0x000055bdc4562ae8 @name="Theo", @health=115, @found_treasures={:crowbar=>400}>]
-Theo................ 515
-Simon............... 175
-Alvin............... 120
-Klutz............... 97
+[#<ClumsyPlayer:0x0000556d1212f730 @name="Klutz", @health=120, @found_treasures={:crowbar=>200.0, :pie=>2.5, :bottle=>12.5, :broomstick=>100.0}>, #<BerserkPlayer:0x0000556d1212f618 @name="Berserker", @health=55, @found_treasures={:crowbar=>800, :skillet=>100, :hammer=>50}, @w00t_count=1>, #<Player:0x0000556d1212d8e0 @name="Alvin", @health=105, @found_treasures={:hammer=>50, :bottle=>25, :pie=>5, :skillet=>100}>, #<Player:0x0000556d1212d750 @name="Simon", @health=55, @found_treasures={:bottle=>25, :skillet=>100, :broomstick=>200, :pie=>5}>, #<Player:0x0000556d1212d5e8 @name="Theo", @health=105, @found_treasures={:pie=>5, :crowbar=>400, :skillet=>100, :broomstick=>200}>]
+Berserker........... 1005
+Theo................ 810
+Klutz............... 435.0
+Simon............... 385
+Alvin............... 285
