@@ -78,7 +78,6 @@ class Game
     @players.sort_by {|player| -player.score}.each do |player|
       puts high_score_entry(player)
     end
-
   end
 
   def load_players(from_file)
@@ -91,7 +90,7 @@ class Game
   def save_high_scores(to_file="high_scores.txt")
     File.open(to_file, "w") do |file|
       file.puts "#{@title} High Scores:"
-      puts "#{@players}"
+      file.puts "#{@players}"
       @players.sort_by {|player| -player.score}.each do |player|
         file.puts high_score_entry(player)
       end

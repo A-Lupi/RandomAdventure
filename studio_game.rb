@@ -26,7 +26,7 @@ loop do
   end
 end
 
-knuckleheads.save_high_scores
+#knuckleheads.save_high_scores
 
 
 
