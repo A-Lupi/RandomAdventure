@@ -1,5 +1,5 @@
-require_relative 'clumsy_player'
-require_relative 'spec_helper'
+require 'studio_game/clumsy_player'
+require 'spec_helper'
 
 module StudioGame
 

@@ -1,5 +1,5 @@
-require_relative 'spec_helper'
-require_relative 'treasure_trove'
+require 'spec_helper'
+require 'studio_game/treasure_trove'
 
 module StudioGame
 

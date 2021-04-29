@@ -1,5 +1,5 @@
-require_relative 'spec_helper'
-require_relative 'game'
+require 'spec_helper'
+require 'studio_game/game'
 
 module StudioGame
 

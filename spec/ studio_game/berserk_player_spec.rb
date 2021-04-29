@@ -1,5 +1,5 @@
-require_relative 'berserk_player'
-require_relative 'spec_helper'
+require 'studio_game/berserk_player'
+require 'spec_helper'
 
 module StudioGame
 

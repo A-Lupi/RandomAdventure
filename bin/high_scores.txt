@@ -1,0 +1,7 @@
+Knuckleheads High Scores:
+[#<StudioGame::ClumsyPlayer:0x0000561ed22426f0 @name="Klutz", @health=150, @found_treasures={:skillet=>50.0}, @boost_factor=3>, #<StudioGame::BerserkPlayer:0x0000561ed22425b0 @name="Berserker", @health=40, @found_treasures={:hammer=>50}, @w00t_count=0>, #<StudioGame::Player:0x0000561ed22407d8 @name="Alvin", @health=90, @found_treasures={:pie=>5}>, #<StudioGame::Player:0x0000561ed2240648 @name="Simon", @health=60, @found_treasures={:pie=>5}>, #<StudioGame::Player:0x0000561ed22404e0 @name="Theo", @health=125, @found_treasures={:bottle=>25}>]
+Klutz............... 200.0
+Theo................ 150
+Alvin............... 95
+Berserker........... 90
+Simon............... 65
