@@ -1,7 +1,7 @@
 Knuckleheads High Scores:
-[#<ClumsyPlayer:0x0000556644713658 @name="Klutz", @health=150, @found_treasures={:bottle=>12.5}, @boost_factor=3>, #<BerserkPlayer:0x0000556644713518 @name="Berserker", @health=50, @found_treasures={:bottle=>25}, @w00t_count=0>, #<Player:0x0000556644711808 @name="Alvin", @health=115, @found_treasures={:crowbar=>400}>, #<Player:0x0000556644711678 @name="Simon", @health=75, @found_treasures={:hammer=>50}>, #<Player:0x0000556644711510 @name="Theo", @health=115, @found_treasures={:hammer=>50}>]
-Alvin............... 515
-Theo................ 165
+[#<ClumsyPlayer:0x0000556f08a3b660 @name="Klutz", @health=150, @found_treasures={:bottle=>12.5}, @boost_factor=3>, #<BerserkPlayer:0x0000556f08a3b520 @name="Berserker", @health=65, @found_treasures={:broomstick=>200}, @w00t_count=1>, #<Player:0x0000556f08a39810 @name="Alvin", @health=90, @found_treasures={:bottle=>25}>, #<Player:0x0000556f08a39680 @name="Simon", @health=50, @found_treasures={:skillet=>100}>, #<Player:0x0000556f08a39518 @name="Theo", @health=140, @found_treasures={:hammer=>50}>]
+Berserker........... 265
+Theo................ 190
 Klutz............... 162.5
-Simon............... 125
-Berserker........... 75
+Simon............... 150
+Alvin............... 115
