@@ -3,7 +3,7 @@ require_relative 'player'
 require_relative 'treasure_trove'
 require_relative 'loaded_die'
 
-module StudioGame
+module RandomAdventure
   module GameTurn
     def self.take_turn(player)
       die = Die.new

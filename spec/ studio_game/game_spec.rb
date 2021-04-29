@@ -1,7 +1,7 @@
 require 'spec_helper'
-require 'studio_game/game'
+require 'RandomAdventure/game'
 
-module StudioGame
+module RandomAdventure
 
   describe Game do
 

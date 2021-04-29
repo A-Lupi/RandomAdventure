@@ -1,4 +1,4 @@
-module StudioGame
+module RandomAdventure
   
   Treasure = Struct.new(:name, :points)
 

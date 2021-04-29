@@ -3,7 +3,7 @@ require_relative 'game_turn'
 require_relative 'treasure_trove'
 require 'csv'
 
-module StudioGame
+module RandomAdventure
 
   class Game
     attr_accessor :title

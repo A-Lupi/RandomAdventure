@@ -1,7 +1,7 @@
-require 'studio_game/clumsy_player'
+require 'RandomAdventure/clumsy_player'
 require 'spec_helper'
 
-module StudioGame
+module RandomAdventure
 
   describe ClumsyPlayer do
     before do

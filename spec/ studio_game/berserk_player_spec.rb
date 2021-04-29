@@ -1,7 +1,7 @@
-require 'studio_game/berserk_player'
+require 'RandomAdventure/berserk_player'
 require 'spec_helper'
 
-module StudioGame
+module RandomAdventure
 
   describe BerserkPlayer do
 

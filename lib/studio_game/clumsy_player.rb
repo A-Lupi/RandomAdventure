@@ -1,6 +1,6 @@
 require_relative 'player'
 
-module StudioGame
+module RandomAdventure
   class ClumsyPlayer < Player
     attr_reader :boost_factor
 

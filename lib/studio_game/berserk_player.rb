@@ -1,6 +1,6 @@
 require_relative 'player'
 
-module StudioGame
+module RandomAdventure
   class BerserkPlayer < Player
 
     def initialize(name, health=100)

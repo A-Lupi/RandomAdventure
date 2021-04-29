@@ -1,6 +1,6 @@
 require_relative 'auditable'
 
-module StudioGame
+module RandomAdventure
 
   class Die
     include Auditable

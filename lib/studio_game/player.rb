@@ -2,7 +2,7 @@ require_relative 'treasure_trove'
 require_relative 'playable' 
 
 
-module StudioGame
+module RandomAdventure
   class Player
     include Playable
 

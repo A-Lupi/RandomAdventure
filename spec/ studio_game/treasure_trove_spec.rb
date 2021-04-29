@@ -1,7 +1,7 @@
 require 'spec_helper'
-require 'studio_game/treasure_trove'
+require 'RandomAdventure/treasure_trove'
 
-module StudioGame
+module RandomAdventure
 
     describe Treasure do
 

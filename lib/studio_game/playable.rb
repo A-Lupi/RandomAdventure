@@ -1,4 +1,4 @@
-module StudioGame
+module RandomAdventure
   module Playable
     def blam
         self.health -= 10
