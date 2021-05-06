@@ -1,7 +1,7 @@
 module RandomAdventure
   module Auditable
     def audit
-      puts "Rolled a #{self.number} (#{self.class})"
+      puts "Rolled a #{self.number}"
     end
   end
 end

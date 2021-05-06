@@ -1,7 +1,7 @@
 Knuckleheads High Scores:
-[#<RandomAdventure::ClumsyPlayer:0x000055a811d22800 @name="Klutz", @health=150, @found_treasures={:crowbar=>200.0}, @boost_factor=3>, #<RandomAdventure::BerserkPlayer:0x000055a811d226c0 @name="Berserker", @health=40, @found_treasures={:skillet=>100}, @w00t_count=0>, #<RandomAdventure::Player:0x000055a811d208e8 @name="Alvin", @health=100, @found_treasures={:skillet=>100}>, #<RandomAdventure::Player:0x000055a811d20758 @name="Simon", @health=75, @found_treasures={:hammer=>50}>, #<RandomAdventure::Player:0x000055a811d205f0 @name="Theo", @health=115, @found_treasures={:skillet=>100}>]
-Klutz............... 350.0
-Theo................ 215
-Alvin............... 200
-Berserker........... 140
-Simon............... 125
+[#<RandomAdventure::ClumsyPlayer:0x000055c4d5082808 @name="Klutz", @health=95, @found_treasures={:bottle=>12}, @boost_factor=3>, #<RandomAdventure::BerserkPlayer:0x000055c4d50826c8 @name="Berserker", @health=65, @found_treasures={:broomstick=>200}, @w00t_count=1>, #<RandomAdventure::Player:0x000055c4d50808f0 @name="Alvin", @health=100, @found_treasures={:hammer=>50}>, #<RandomAdventure::Player:0x000055c4d5080760 @name="Simon", @health=75, @found_treasures={:broomstick=>200}>, #<RandomAdventure::Player:0x000055c4d50805f8 @name="Theo", @health=115, @found_treasures={:bottle=>25}>]
+Simon............... 275
+Berserker........... 265
+Alvin............... 150
+Theo................ 140
+Klutz............... 107
